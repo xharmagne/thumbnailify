@@ -1,0 +1,7 @@
+{
+  "name": "thumbnailify",
+  "version": "1.0.0",
+  "description": "Google Cloud Function for creating thumbnails from images uploaded to storage",
+  "main": "index.js",
+  "license": "MIT"
+}
